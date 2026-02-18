@@ -1,4 +1,4 @@
-# Sesión 4: Performance Architecture (Competencias)
+# Sesión 4: Performance Architecture
 
 ## Bloque 1: Apertura (15 min)
 
@@ -275,5 +275,4 @@
 ### El Valor de la Claridad
 *   *Reflexión:* La claridad es amabilidad. La IA nos ayuda a ser claros para que el empleado pueda ganar.
 
-### Teaser
-*   *Texto:* "Última sesión: Escuchar a todos a la vez. (Clima, Cultura y Análisis de Sentimiento)."
+

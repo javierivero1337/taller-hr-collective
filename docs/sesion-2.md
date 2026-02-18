@@ -1,4 +1,4 @@
-# Sesión 2: Strategic Talent Acquisition (Deep Research)
+# Sesión 2: Strategic Talent Acquisition via Deep Research
 
 ## Bloque 1: Apertura (15 min)
 
@@ -152,5 +152,4 @@ Sugiéreme 2 cambios para que el lenguaje sea más inclusivo y atractivo para ta
 ### Galería de JDs
 *   *Dinámica:* Leer en voz alta los "Job Titles" creativos que salieron.
 
-### Next Steps
-*   *Texto:* "Ya tenemos el QUÉ buscamos. En la próxima sesión veremos CÓMO lo evaluamos (Entrevistas)."
+

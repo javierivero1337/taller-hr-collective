@@ -242,5 +242,3 @@ Presenta un Scorecard estructurado con: Competencia, Calificación, Evidencia (C
 ### Ética del Grabado
 *   *Key Point:* Siempre pedir consentimiento. Transparencia total con el candidato.
 
-### Teaser
-*   *Texto:* "Ya sabemos seleccionar. Próxima sesión: ¿Cómo definimos el éxito y el desempeño? (Competencias)."

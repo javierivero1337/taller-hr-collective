@@ -1,4 +1,4 @@
-# Sesión 5: Voice of the Employee (Cultura)
+# Sesión 5: Voice of the Employee 
 
 ## Bloque 1: Apertura (15 min)
 
