@@ -1,22 +1,16 @@
-# Guía de Slides: Sesión 2
-## Título: Strategic Talent Acquisition (Deep Research)
+# Sesión 2: Strategic Talent Acquisition (Deep Research)
 
-**Objetivo:** Usar Deep Research para investigar mercado y crear JDs estratégicas.
+## Bloque 1: Apertura (15 min)
 
----
-
-### Bloque 1: Apertura (15 min)
-**Slide 1: Portada**
-*   *Texto:* Sesión 2: Atracción de Talento Estratégica.
-
-**Slide 2: El Problema de Hoy**
+### El Problema de Hoy
 *   *Dato:* "El 80% de las JDs son 'copiar-pegar' de hace 5 años".
 *   *Meta:* Dejar de pedir "lo de siempre" y empezar a pedir "lo que el mercado tiene".
 
 ---
 
-### Bloque 2: Teoría (30 min)
-**Slide 3: Deep Research - El Poder de la Investigación Autónoma**
+## Bloque 2: Teoría (30 min)
+
+### Deep Research - El Poder de la Investigación Autónoma
 *   **¿Qué es Deep Research?**: Es un modelo de IA configurado como "agente" que no solo responde preguntas, sino que ejecuta un proceso de investigación completo:
     *   **Navegación Iterativa**: Realiza decenas de búsquedas, "lee" múltiples sitios web, descarta información irrelevante y profundiza en fuentes clave.
     *   **Razonamiento y Planificación**: Antes de buscar, la IA diseña un plan de qué investigar. Si encuentra algo nuevo, ajusta su plan en tiempo real.
@@ -27,7 +21,7 @@
 *   **Deep Research vs. Google**: Google te entrega una lista de links (tú haces el trabajo). Deep Research te entrega la conclusión y el reporte (la IA hace el trabajo).
 *   **Visual**: Gráfico comparativo: Búsqueda tradicional (lista de links) vs. Chat Normal (Respuesta directa) vs. Deep Research (Reporte consolidado con fuentes).
 
-**Slide 4: Context Stacking & Candidate Persona (El Core de la JD)**
+### Context Stacking & Candidate Persona (El Core de la JD)
 *   **Técnica: Apilar capas de información estratégica**: No podemos pedirle a la IA que cree una JD sin darle el contexto profundo de la empresa y del humano que buscamos. 
     *   **Capa 1: ADN y Desafíos de la Empresa**:
         *   *¿Qué incluir?*: Cultura, retos actuales (ej. migración a la nube, expansión a Latam), y por qué el puesto está abierto hoy.
@@ -39,7 +33,7 @@
         *   *¿Qué incluir?*: Motivaciones, frustraciones y hábitos del candidato ideal.
         *   *Ejemplo*: "Buscamos a alguien que lea HackerNews, que le frustre la burocracia corporativa y que valore la autonomía radical sobre el prestigio de la marca."
 
-**Slide 5: Diseñando el Prompt Maestro (Deep Research Mode)**
+### Diseñando el Prompt Maestro (Deep Research Mode)
 *   **Concepto**: El prompt no es una simple orden, es una **misión de investigación completa**.
 *   **Ejemplo de Prompt de Deep Research para una JD**:
     ```markdown
@@ -63,8 +57,9 @@
 
 ---
 
-### Bloque 3: Live Demo (45 min)
-**Slide 6: Paso 1 - Investigación en Tiempo Real (Deep Research)**
+## Bloque 3: Live Demo (45 min)
+
+### Paso 1 - Investigación en Tiempo Real (Deep Research)
 *   *Acción:* Ejecutar la fase de "Discovery" usando el primer bloque del Prompt Maestro.
 *   *Prompt de ejecución:* 
     ```text
@@ -75,7 +70,7 @@
     ```
 *   *Meta:* Obtener la materia prima para la "Capa 2" del Context Stacking.
 
-**Slide 7: Paso 2 y 3 - Contexto y Candidate Persona**
+### Paso 2 y 3 - Contexto y Candidate Persona
 *   *Acción:* Integrar los desafíos de la empresa (Capa 1) con los hallazgos del mercado para definir al humano ideal.
 *   *Prompt de ejecución:* 
     ```text
@@ -86,12 +81,12 @@
     ```
 *   *Meta:* Crear un perfil que no se base en requisitos, sino en motivaciones.
 
-**Slide 8: El Entregable - Redacción de la JD "Out of the Box"**
+### El Entregable - Redacción de la JD "Out of the Box"
 *   *Acción:* Consolidar todo el "Context Stacking" en una descripción de puesto disruptiva.
 *   *Prompt de ejecución:* 
     ```text
     Actúa como un Copywriter de Employer Branding. 
-    Usa toda la información (Mercado + Contexto + Persona) para redactar la JD final.
+    Usa toda la información (Market + Contexto + Persona) para redactar la JD final.
     - Tono: Innovador y desafiante. 
     - Estructura: 'Tu Misión', 'Tus Retos', 'Tus Beneficios'. 
     - Regla de Oro: Prohibido usar la palabra 'Requisitos' o 'Requerimientos'.
@@ -100,49 +95,62 @@
 
 ---
 
-### Bloque 4: Hands-on / Workshop (45 min)
-**Slide 9: Challenge: La Vacante Imposible**
+## Bloque 4: Hands-on / Workshop (45 min)
+
+### Challenge: La Vacante Imposible
 *   *Instrucción:* Elige esa vacante que llevas meses sin poder cerrar o una posición nueva y compleja.
-*   *Metodología:* Vamos a aplicar el **Prompt Maestro** en 3 fases usando **XML Tags** para organizar el contexto.
+*   *Metodología:* Vamos a ensamblar un **Prompt Maestro de 3 Capas** usando **XML Tags** para organizar el contexto profundo.
 
-**Slide 10: Fase 1 - Deep Research (Mercado)**
-*   *Actividad:* Ejecuta la investigación de mercado y competidores.
-*   *Prompt Sugerido:* 
-    ```text
-    <investigacion_mercado>
-    Analiza tendencias salariales, skills emergentes y qué están ofreciendo los competidores para el rol de [Nombre del Rol] en [Ubicación]. Identifica qué ganchos están usando.
-    </investigacion_mercado>
-    ```
+### Fase 1: Ensamblaje del Contexto (Deep Research + ADN)
+*   *Actividad:* Copia y completa el siguiente prompt interactivo para iniciar tu investigación.
+*   *Prompt Maestro para el Taller:*
+```text
+Actúa como un Consultor de Estrategia de Talento e IA Senior. 
+MI OBJETIVO: Construir un reporte de mercado y el perfil ideal para un [INSERTAR NOMBRE DEL ROL AQUÍ].
 
-**Slide 11: Fase 2 - Context Stacking (Empresa + Persona)**
-*   *Actividad:* Añade tu contexto y crea el perfil psicográfico.
-*   *Estructura:*
-    ```text
-    <contexto_empresa> [Escribe aquí tu reto: ej. cambio de cultura, expansión, deuda técnica] </contexto_empresa>
-    <instruccion> 
-    Basado en la investigación de mercado previa y mi contexto, define el Candidate Persona: Motivaciones, dolores y por qué nos elegirían.
-    </instruccion>
-    ```
+<contexto_empresa>
+- Nuestra industria: [INSERTAR SECTOR, EJ: FINTECH, RETAIL, ETC]
+- Reto actual: [INSERTAR DESAFÍO PRINCIPAL, EJ: MIGRACIÓN TECNOLÓGICA, EXPANSIÓN A LATAM]
+- Cultura: [INSERTAR 2-3 VALORES CLAVE, EJ: AGILIDAD RADICAL, FOCO EN DATOS]
+</contexto_empresa>
 
-**Slide 12: Fase 3 - Drafting & Audit (La JD Final)**
-*   *Actividad:* Genera la JD y hazle una auditoría de sesgos.
-*   *Prompt Sugerido:* 
-    ```text
-    <instruccion_redaccion> 
-    Redacta la JD con estructura 'Misión/Retos/Beneficios'. Tono retador. Sin usar la palabra 'Requisitos'. 
-    </instruccion_redaccion>
-    
-    <auditoria>
-    Analiza la JD anterior. ¿Tiene sesgos de género? ¿Es demasiado corporativa? Sugiéreme 3 mejoras.
-    </auditoria>
-    ```
+<investigacion_mercado>
+- Analiza tendencias salariales y ganchos de contratación para este rol en [INSERTAR UBICACIÓN O 'REMOTO'].
+- Identifica los 3 'skills' técnicos más escasos hoy.
+- Compara lo que ofrecen competidores como [INSERTAR COMPETIDOR A] y [INSERTAR COMPETIDOR B].
+</investigacion_mercado>
+
+<instruccion>
+Basado en las etiquetas anteriores, define el 'Candidate Persona' (Psicografía): 
+¿Qué le frustra en su trabajo actual? ¿Qué le haría decir 'sí' a nuestra propuesta?
+</instruccion>
+```
+
+### Fase 2: Redacción Disruptiva (Employer Branding)
+*   *Actividad:* Una vez que tengas el reporte, genera la JD final eliminando los clichés corporativos.
+*   *Prompt de Redacción:*
+```text
+Actúa como un Copywriter de Employer Branding de alto nivel. 
+Usa el análisis anterior para redactar la JD final.
+
+<formato_salida>
+- Tono: [INSERTAR TONO DESEADO, EJ: REBELDE, PROFESIONAL-CERCANO, TÉCNICO]
+- Estructura: 'Tu Misión', 'Tus Retos', 'Tus Beneficios'.
+- REGLA: Prohibido usar la palabra 'Requisitos'. Enfócate en el impacto.
+</formato_salida>
+
+<auditoria_de_sesgos>
+Analiza el resultado final. ¿Detectas sesgos de género o edad? 
+Sugiéreme 2 cambios para que el lenguaje sea más inclusivo y atractivo para talento diverso.
+</auditoria_de_sesgos>
+```
 
 ---
 
-### Bloque 5: Cierre (15 min)
-**Slide 13: Galería de JDs**
+## Bloque 5: Cierre (15 min)
+
+### Galería de JDs
 *   *Dinámica:* Leer en voz alta los "Job Titles" creativos que salieron.
 
-**Slide 14: Next Steps**
+### Next Steps
 *   *Texto:* "Ya tenemos el QUÉ buscamos. En la próxima sesión veremos CÓMO lo evaluamos (Entrevistas)."
-

@@ -26,6 +26,11 @@ export default defineConfig({
       }
     ],
 
+    outline: {
+      level: 2,
+      label: 'En esta página'
+    },
+
     socialLinks: [
       // { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ],
