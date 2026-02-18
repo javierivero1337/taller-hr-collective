@@ -24,8 +24,6 @@
     *   **Objetivo:** Comparado contra una rúbrica (BARS).
     *   **Accionable:** Con pasos claros de mejora.
 
----
-
 ## Bloque 2: Teoría (30 min)
 
 ### Semántica y Matices: La IA como Lexicógrafo
@@ -91,8 +89,6 @@
 2.  **Feedback en Tiempo Real**: Al estar basado en comportamientos, el manager puede dar feedback inmediato: "Esa acción que acabas de hacer es un comportamiento de Barra Alta".
 3.  **Justicia y Equidad**: Reduce los sesgos inconscientes al forzar al evaluador a buscar evidencias conductuales, no sensaciones.
 4.  **Plan de Carrera Automático**: El colaborador no pregunta "¿Cómo asciendo?", sino "¿Qué comportamientos de la siguiente barra me faltan por demostrar?".
-
----
 
 ## Bloque 3: Live Demo (45 min)
 
@@ -200,8 +196,6 @@
     3. PREPARACIÓN: Anticipa 2 objeciones del empleado y dame respuestas empáticas pero alineadas a la rúbrica.
     ```
 
----
-
 ## Bloque 4: Hands-on / Workshop (45 min)
 
 ### Workshop Parte 1 - Arquitectura de la Competencia (Diseño)
@@ -267,8 +261,6 @@
 ### Reflexión: De Juez a Coach
 *   *Pregunta:* ¿Cómo cambia tu seguridad como manager cuando la discusión no es sobre tu "opinión" sino sobre la "rúbrica" y los datos consolidados?
 *   *Key Takeaway:* La IA nos ayuda a separar a la persona del comportamiento y a ver la "película completa" del año.
-
----
 
 ## Bloque 5: Cierre (15 min)
 

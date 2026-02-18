@@ -16,8 +16,6 @@
 *   *El Problema:* Confiamos en nuestro "instinto" (gut feeling), que no es más que una colección de prejuicios inconscientes.
 *   *Solución:* Transición hacia datos estructurados y evidencia reproducible.
 
----
-
 ## Bloque 2: Teoría (30 min)
 
 ### Pipeline de Datos
@@ -71,8 +69,6 @@ La IA no reemplaza al reclutador, sino que actúa como un **Auditor de Objetivid
     *   **Gem:** Plataforma integral (ATS + CRM) que embebe IA en todo el flujo de trabajo de reclutamiento.
     *   **Workable:** ATS con IA para screening y distribución de vacantes, ideal para PYMEs.
     *   **Humanly:** Automatiza el engagement y las entrevistas iniciales para mejorar la eficiencia en alto volumen.
-
----
 
 ## Bloque 3: Live Demo (45 min)
 
@@ -151,8 +147,6 @@ La IA no reemplaza al reclutador, sino que actúa como un **Auditor de Objetivid
     </transcripcion>
     ```
 *   *Meta:* Mostrar cómo la IA puede aplicar "filtros de cultura y principios" de forma mucho más rigurosa que una lectura rápida humana.
-
----
 
 ## Bloque 4: Hands-on / Workshop (45 min)
 
@@ -235,7 +229,6 @@ Presenta un Scorecard estructurado con: Competencia, Calificación, Evidencia (C
     *   ¿Es este proceso más justo para el candidato?
     *   ¿Qué tan escalable es este modelo en tu organización actual?
 
----
 
 ## Bloque 5: Cierre (15 min)
 

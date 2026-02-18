@@ -12,8 +12,6 @@
 *   *Riesgo:* En el texto libre es donde están las señales tempranas de renuncia (Burnout, Toxicidad, Acoso).
 *   *Solución:* Usar IA para "escuchar" a escala masiva en segundos, no semanas.
 
----
-
 ## Bloque 2: Teoría (30 min)
 
 ### Más allá del Word Cloud (Nube de Palabras)
@@ -127,9 +125,6 @@ Este archivo contiene 250 respuestas simuladas de una startup en crecimiento. Ú
 :::
 
 
-
----
-
 ## Bloque 4: Hands-on / Workshop (45 min)
 
 ### Challenge - "El CEO está Furioso"
@@ -158,8 +153,6 @@ Este archivo contiene 250 respuestas simuladas de una startup en crecimiento. Ú
     La encuesta muestra miedo e incertidumbre. 
     Necesito un discurso que reconozca el dolor (empatía) pero que re-enfoque al equipo en el futuro (visión), sin prometer cosas que no podemos cumplir.
     ```
-
----
 
 ## Bloque 5: Cierre del Curso (15 min)
 

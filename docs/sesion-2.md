@@ -6,8 +6,6 @@
 *   *Dato:* "El 80% de las JDs son 'copiar-pegar' de hace 5 años".
 *   *Meta:* Dejar de pedir "lo de siempre" y empezar a pedir "lo que el mercado tiene".
 
----
-
 ## Bloque 2: Teoría (30 min)
 
 ### Deep Research - El Poder de la Investigación Autónoma
@@ -55,8 +53,6 @@
     ENTREGABLE: Un reporte estratégico que servirá de base para redactar la JD final.
     ```
 
----
-
 ## Bloque 3: Live Demo (45 min)
 
 ### Paso 1 - Investigación en Tiempo Real (Deep Research)
@@ -92,8 +88,6 @@
     - Regla de Oro: Prohibido usar la palabra 'Requisitos' o 'Requerimientos'.
     ```
 *   *Meta:* Pasar del reporte estratégico a una pieza de atracción de talento real.
-
----
 
 ## Bloque 4: Hands-on / Workshop (45 min)
 

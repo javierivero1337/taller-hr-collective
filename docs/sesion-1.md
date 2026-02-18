@@ -18,8 +18,6 @@
     *   **Google (Gemini):** Integración total con Google Workspace.
 *   *Herramientas de Productividad:* Cursor (para código/docs), v0 (para interfaces), Perplexity (para búsqueda real).
 
----
-
 ## Bloque 2: Prompt Engineering - El Arte de Hablar con Máquinas (45 min)
 
 ### ¿Por qué importa el Prompting?
@@ -58,8 +56,6 @@
 ¿Quieres ver la diferencia real entre Texto Plano, Markdown, HTML y XML?
 [Explora la Demo en Vivo](https://v0-text-format-demo.vercel.app/)
 :::
-
----
 
 ## Bloque 3: Live Demo (45 min)
 
@@ -111,9 +107,6 @@ Prioriza mis notas (Manager) y busca patrones repetidos en el feedback de pares.
 ### Iteración en Vivo
 *   *Acción:* Refinar el resultado anterior en vivo. "El tono suena muy duro en la parte de las ideas, suavízalo pero mantén la firmeza en que debe aprender primero la operación".
 
-
----
-
 ## Bloque 4: Hands-on / Workshop (45 min)
 
 ### Del Gimnasio al Laboratorio (HR Focus)
@@ -145,8 +138,6 @@ respuesta: ¿Fui empático? ¿Hice preguntas abiertas? ¿Cómo puedo mejorar mi 
 *   *Objetivo:* Usar la IA para auditar nuestro propio juicio.
 *   *Actividad:* Toma un párrafo de feedback que hayas escrito recientemente (o inventa uno).
 *   *Prompt:* "Analiza este texto de feedback. ¿Hay sesgos inconscientes (de género, edad, cultura)? ¿El lenguaje es constructivo o punitivo? Dame 3 opciones para reescribirlo manteniendo el mensaje pero eliminando el sesgo."
-
----
 
 ## Bloque 5: Cierre (15 min)
 
