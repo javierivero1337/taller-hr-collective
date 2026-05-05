@@ -22,6 +22,12 @@ export default defineConfig({
           { text: 'Sesión 4: Desempeño', link: '/sesion-4' },
           { text: 'Sesión 5: Cultura', link: '/sesion-5' }
         ]
+      },
+      {
+        text: 'Walmart',
+        items: [
+          { text: 'Leading with AI – Walmart', link: '/leading-with-ai-walmart' }
+        ]
       }
     ],
 
